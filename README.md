@@ -28,8 +28,8 @@
 
 1. کلون کردن پروژه:
 ```bash
-git clone https://github.com/USERNAME/currency-dashboard.git
-cd currency-dashboard
+git clone https://github.com/z4r3i/bonbast-scraper
+cd bonbast-scraper
 ```
 2. نصب پکیج‌ها:
 ```bash
