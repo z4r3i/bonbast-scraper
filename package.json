@@ -1,0 +1,29 @@
+{
+  "name": "bonbast-scraper",
+  "version": "1.0.0",
+  "description": "📊 داشبورد زنده نرخ ارز و طلا با Node.js، Puppeteer و WebSocket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/z4r3i/bonbast-scraper"
+  },
+  "keywords": [
+    "Node.js",
+    "Puppeteer",
+    "WebSocket",
+    "Dashboard",
+    "Currency",
+    "Gold",
+    "Exchange"
+  ],
+  "author": "z4r3i",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "ws": "^8.13.0",
+    "node-cron": "^3.0.2"
+  }
+}
