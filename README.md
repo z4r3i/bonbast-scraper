@@ -19,7 +19,7 @@
 
 ## 🖥 پیش‌نمایش
 
-![نمونه داشبورد] <img width="649" height="993" alt="image" src="https://github.com/user-attachments/assets/d3752ae6-61fd-4d7b-80f0-be5e3746eb4a" />
+ <img width="649" height="993" alt="image" src="https://github.com/user-attachments/assets/d3752ae6-61fd-4d7b-80f0-be5e3746eb4a" />
 
 
 ---
@@ -44,6 +44,6 @@ node index.js
 4. مرورگر را باز کن و برو به:
 
 
-   ```
+ ```
 http://127.0.0.1:3000
 ```
