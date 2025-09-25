@@ -19,8 +19,8 @@
 
 ## 🖥 پیش‌نمایش
 
-![نمونه داشبورد](<img width="649" height="993" alt="image" src="https://github.com/user-attachments/assets/00062b3b-39b1-464a-9721-d5530d33085a" />
-)
+![نمونه داشبورد] <img width="649" height="993" alt="image" src="https://github.com/user-attachments/assets/d3752ae6-61fd-4d7b-80f0-be5e3746eb4a" />
+
 
 ---
 
